@@ -191,7 +191,7 @@ class ReportVLM:
             self.camera.close()
 
 if __name__ == "__main__":
-    api_key = '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'  # Replace with your API key
+    api_key = ''  # Replace with your API key
     system = ReportVLM(api_key)
     #system.run()
 
